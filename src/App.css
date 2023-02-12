@@ -1,0 +1,8 @@
+.container {
+  padding: 0 10px;
+}
+.all-products {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 30px;
+}

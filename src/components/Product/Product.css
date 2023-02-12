@@ -1,0 +1,18 @@
+.product img {
+  width: 250px;
+}
+.product {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 15px;
+}
+
+.product button {
+  outline: none;
+  border: none;
+  background-color: palevioletred;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 10px;
+}
